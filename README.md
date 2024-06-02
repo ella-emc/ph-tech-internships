@@ -41,7 +41,7 @@ As a solution to this problem, I decided to make this repository. I was inspired
 **Legend**
 
 - 🌐 - open to international (i.e. Filipino) applicants
-- 📝 - requires sponsorship
+- 📝 - offers sponsorship
 
 <i>Those with no 🌐 or 📝 symbols means that the info is unknown. However, it is generally preferrable that you have a sponsor if you wish to apply for onsite international internships.</i>
 
