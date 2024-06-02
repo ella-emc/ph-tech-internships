@@ -13,7 +13,7 @@ As a solution to this problem, I decided to make this repository. I was inspired
 
 
 ## 🤝 How to Contribute
-**See the guidelines for contributing [here](https:).**
+**See the guidelines for contributing [here](https://github.com/ella-emc/ph-tech-internships/blob/main/CONTRIBUTING.md).**
 
 ## 💼 The List
 > Here are some tech internships for Filipino students to watch out for!
