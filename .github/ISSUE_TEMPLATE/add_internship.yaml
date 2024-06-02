@@ -63,31 +63,31 @@ body:
     validations:
       required: false
   - type: dropdown
-      id: allowed_applicants_local
-      attributes:
-        label: Is this internship open to international (non-Filipino) applicants?
-        description: |
-          If the company is based in the Philippines, please
-          answer this question.
-        multiple: false
-        options:
-          - "Yes"
-          - "No"
-      validations:
-        required: false
+    id: allowed_applicants_local
+    attributes:
+      label: Is this internship open to international (non-Filipino) applicants?
+      description: |
+        If the company is based in the Philippines, please
+        answer this question.
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
   - type: dropdown
-      id: allowed_applicants_int
-      attributes:
-        label: Is this internship open to Filipino/foreign applicants?
-        description: |
-          If the company is multinational or based abroad, please
-          answer this question.
-        multiple: false
-        options:
-          - "Yes"
-          - "No"
-      validations:
-        required: false
+    id: allowed_applicants_int
+    attributes:
+      label: Is this internship open to Filipino/foreign applicants?
+      description: |
+        If the company is multinational or based abroad, please
+        answer this question.
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
   - type: dropdown
     id: sponsorship
     attributes:
