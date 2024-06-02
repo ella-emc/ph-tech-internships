@@ -1,5 +1,7 @@
 # ✍️ Contribution guidelines
 
+> *This guideline took inspiration from Simplify's and CSC Pitt's contribution guideline for their [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)* repository.
+
 Welcome to the contribution guidelines of this repository. Thank you so much for your interest in contributing. Your contribution will be a great help to budding Filipino IT professionals!
 
 ## 👨‍🦰  About you 
@@ -38,7 +40,22 @@ To contribute, read the rest of this file.
 
 + The role must not already exist on the list.
 
++ The internship must **NOT** be an on-the-job training (OJT) internship role.
+
 ## How to add an internship
+Great! You're now ready to contribute.
+
+To add an internship, do the following steps:
+
+1. 
+## Adding an Internship
+Cool! You're ready to add an internship to the list. Follow these steps:
+
+1) First create a new issue [here](https://github.com/ella-emc/ph-tech-internships/issues/new/choose).
+2) Select the **New Internship** issue template.
+3) Fill in the information about your internship into the form, then hit submit.
+> Please make a new submission for each unique position, **even if they are for the same company**.
+4) That's it! Once a member of our team has reviewed your submission, it will be automatically added to the correct `README`
 
 
 
