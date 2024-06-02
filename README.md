@@ -27,13 +27,13 @@ As a solution to this problem, I decided to make this repository. I was inspired
 
 ### Local companies
 
-| Company | Role | Mode and Location | Application Link | Deadline | Notes | 
+| Company | Role/Program Name | Mode and Location | Application Link | Deadline | Notes | 
 | ------- | ---- | ----------------- | ---------------- | -------- | ----- |
 | [Symph](https://www.symph.co/) | Web and Mobile Developer | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform"><button style="background-color: #bb3c9e; color: white; border: 2px solid #bb3c9e; border-radius: 8px; padding: 6px 16px; cursor: pointer">Apply</button></a> | Open year-round |
 | [Symph](https://www.symph.co/) | UI/UX Designer | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform"><button style="background-color: #bb3c9e; color: white; border: 2px solid #bb3c9e; border-radius: 8px; padding: 6px 16px; cursor: pointer">Apply</button></a> | Open year-round |
 | [Symph](https://www.symph.co/) | QA Technical | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform"><button style="background-color: #bb3c9e; color: white; border: 2px solid #bb3c9e; border-radius: 8px; padding: 6px 16px; cursor: pointer;">Apply</button></a> | Open year-round |
 | [Symph](https://www.symph.co/) | Project Manager | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform"><button style="background-color: #bb3c9e; color: white; border: 2px solid #bb3c9e; border-radius: 8px; padding: 6px 16px; cursor: pointer">Apply</button></a> | Open year-round |
-| [Globe Telecom](https://www.globe.com.ph/about-us/careers/students-graduates#gref) | -- | -- | -- | 🌐 | Sophomore to senior students |
+| [Globe Telecom](https://www.globe.com.ph) | [Globe Summer Internship Program](https://www.globe.com.ph/about-us/careers/students-graduates) | -- | -- | 🌐 | Sophomore to senior students |
 
 
 ### International companies
@@ -46,9 +46,12 @@ As a solution to this problem, I decided to make this repository. I was inspired
 <i>Those with no 🌐 or 📝 symbols means that the info is unknown. However, it is generally preferrable that you have a sponsor if you wish to apply for onsite international internships.</i>
 
 
-| Company | Role | Mode and Location | Application Link | Deadline | Notes | 
+| Company | Role/Program Name | Mode and Location | Application Link | Deadline | Notes | 
 | ------- | ---- | ----------------- | ---------------- | -------- | ----- |
-| [Duolingo](https://duolingo.com/) | Software Engineer | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- | 
+| [Duolingo](https://duolingo.com/) | Software Engineer, [Thrive Internship Program](https://careers.duolingo.com/?type=Thrive%20Program) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- | For sophomores only |
+| [Duolingo](https://duolingo.com/) | Software Engineer, [Summer Internship Program](https://careers.duolingo.com/?type=Intern) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- |
+
+
 
 
 
