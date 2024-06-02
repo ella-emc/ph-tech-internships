@@ -50,6 +50,7 @@ As a solution to this problem, I decided to make this repository. I was inspired
 | ------- | ---- | ----------------- | ---------------- | -------- | ----- |
 | [Duolingo](https://duolingo.com/) | Software Engineer, [Thrive Internship Program](https://careers.duolingo.com/?type=Thrive%20Program) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- | For sophomores only |
 | [Duolingo](https://duolingo.com/) | Software Engineer, [Summer Internship Program](https://careers.duolingo.com/?type=Intern) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- |
+| [Spotify](https://lifeatspotify.com/) | [Global Summer Internship Program](https://lifeatspotify.com/students) | Onsite in multiple locations around the globe | Closed | Closed on March 15, 2024 |
 
 
 
