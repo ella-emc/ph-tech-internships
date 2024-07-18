@@ -51,7 +51,7 @@ As a solution to this problem, I decided to make this repository. I was inspired
 | [Duolingo](https://duolingo.com/) | Software Engineer, [Thrive Internship Program](https://careers.duolingo.com/?type=Thrive%20Program) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- | For sophomores only |
 | [Duolingo](https://duolingo.com/) | Software Engineer, [Summer Internship Program](https://careers.duolingo.com/?type=Intern) | Onsite in Pittsburgh, Pennsylvania, USA | Not yet open | -- |
 | [Spotify](https://lifeatspotify.com/) | [Global Summer Internship Program](https://lifeatspotify.com/students) | Onsite in multiple locations around the globe | Closed | Closed on March 15, 2024 |
-| [Major League Hacking](https://mlh.io/) | [MLH Fellowship](https://fellowship.mlh.io/) | Remote | [Apply](https://www.tfaforms.com/4956119) | APAC: **July 15, 2024**; Non-APAC: **August 31, 2024** | | 
+| [Major League Hacking](https://mlh.io/) | [MLH Fellowship](https://fellowship.mlh.io/) | Remote | [Apply](https://www.tfaforms.com/4956119) | APAC: **July 15, 2024** (CLOSED); Non-APAC: **August 31, 2024** | | 
 | [Outreachy](https://www.outreachy.org/) | Outreachy Internship | Remote | [Apply](https://www.outreachy.org/apply/) | Dec 2024 term application starts in early August 2024 | [Check eligibility requirements](https://www.outreachy.org/apply/eligibility) |
 
 
