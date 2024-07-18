@@ -62,6 +62,13 @@ body:
         - "Abroad"
     validations:
       required: false
+  - type: date
+    id: start_date
+    attributes:
+      label: Application deadline
+      description: When does the application close?
+    validations:
+      required: true
   - type: dropdown
     id: allowed_applicants_local
     attributes:
