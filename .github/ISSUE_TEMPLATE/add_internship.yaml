@@ -62,7 +62,7 @@ body:
         - "Abroad"
     validations:
       required: false
-  - type: date
+  - type: input
     id: deadline
     attributes:
       label: Application deadline
