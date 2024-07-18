@@ -63,7 +63,7 @@ body:
     validations:
       required: false
   - type: date
-    id: start_date
+    id: deadline
     attributes:
       label: Application deadline
       description: When does the application close?
