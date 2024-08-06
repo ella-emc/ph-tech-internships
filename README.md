@@ -55,6 +55,7 @@ As a solution to this problem, I decided to make this repository. I was inspired
 | 🌐 [Major League Hacking](https://mlh.io/) | [MLH Fellowship](https://fellowship.mlh.io/) | Remote | [Apply](https://www.tfaforms.com/4956119) | APAC: **July 15, 2024** (CLOSED); Non-APAC: **August 31, 2024** | | 
 | 🌐 [Outreachy](https://www.outreachy.org/) | Outreachy Internship | Remote | [Apply](https://www.outreachy.org/apply/) | Dec 2024 term application starts in early August 2024 | [Check eligibility requirements](https://www.outreachy.org/apply/eligibility) |
 | 🌐 [Github](https://www.github/education) | Github Octernship | Remote | [Apply](https://education.github.com/students/octernships) | Link currently not working |
+| [Crowdstrike](https://www.crowdstrike.com) | Data Science Intern | Remote, USA | [Apply](https://simplify.jobs/p/fe6e9aad-7d1c-4c1b-84ea-13738c35c4ee/Data-Science-Intern) | | Must be graduating between Dec 2024 - Aug 2025 | 
 
 
 
