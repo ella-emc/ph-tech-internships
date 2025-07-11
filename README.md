@@ -1,4 +1,4 @@
-# Tech Internships (2024)
+# Tech Internships (2025)
 > Are you a Filipino looking for tech internships inside the Philippines and abroad? You're in the right place!
 
 This repository is inspired by the [`Summer2024-Internships`](https://github.com/SimplifyJobs/Summer2024-Internships) repository by Simplify and CSC Pitt. 
@@ -33,8 +33,6 @@ As a solution to this problem, I decided to make this repository. I was inspired
 | [Symph](https://www.symph.co/) | UI/UX Designer | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform">Apply</a> | Open year-round |
 | [Symph](https://www.symph.co/) | QA Technical | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform">Apply</a> | Open year-round |
 | [Symph](https://www.symph.co/) | Project Manager | Remote in the Philippines | <a href="https://docs.google.com/forms/d/e/1FAIpQLScWPiGFwh40VcthhTZmU7a4znWS2vUG4ZILTfUN-qweqkhS4g/viewform">Apply</a> | Open year-round |
-| [Globe Telecom](https://www.globe.com.ph) | [Globe Summer Internship Program](https://www.globe.com.ph/about-us/careers/students-graduates) | -- | -- | 🌐 | Sophomore to senior students |
-| [Rappler](https://www.rappler.com/) | IT Intern | Hybrid (Pasig) | [Apply](https://www.rappler.com/moveph/263-rappler-internship-program-careers/) | July 31, 2024 (Moved to **August 8, 2024 at 12 PM**) (CLOSED) | Open to 3rd and 4th-year students |
 
 
 ### International companies
